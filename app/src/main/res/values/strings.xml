@@ -1,0 +1,15 @@
+<resources>
+    <string name="app_name">Tareas</string>
+    <string name="sign_up">Iniciar Sesion</string>
+    <string name="sing_in">Registrarse</string>
+    <string name="name">Nombre</string>
+    <string name="email">Correo Electronico</string>
+    <string name="pass">Clave</string>
+    <string name="pass_confirm">Confirme su clave</string>
+    <string name="msg_register">¿Ya posees cuenta?</string>
+    <string name="msg_register1">Inicia aqui</string>
+    <string name="msg_login">¿No posees cuenta?</string>
+    <string name="msg_login1">Registrate aqui</string>
+    <string name="login_accounts">O inicie con</string>
+    <string name="sin_in_google">Iniciar con Google</string>
+</resources>
